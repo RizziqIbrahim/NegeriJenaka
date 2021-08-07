@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+header{
+    color: white;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.75) ), url("/images/index.jpg");
+    height: 774px;
+    background-size: cover;
+    background-position:center;
+    background-size: 100% 100%;
+    background-color: rgba(0, 0, 0, 0.75);
+
+}
