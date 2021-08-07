@@ -69,8 +69,8 @@ Fixed Navigation
     <nav class="navbar navbar-expand-lg navbar-light">
       <!-- logo -->
       <a class="navbar-brand logo" href="index.html">
-        <div class="logo-default" src="images/logo.png" alt="logo"></div>
-        <div class="logo-white" src="images/logo-white.png" alt="logo"></div>
+        <img class="logo-default" src="images/NegeriJenaka.png" alt="logo"/>
+        <img class="logo-white" src="images/logo-white.png" alt="logo"/>
       </a>
       <!-- /logo -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
